@@ -1,1 +1,3 @@
 name: example-environment
+dependecies:
+- grd2shp_xagg
